@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Focus App
 
-Focus 
+Welcome!
 
 ### Contact
 
