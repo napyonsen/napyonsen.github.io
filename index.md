@@ -1,4 +1,4 @@
-## Focus App
+## Snapmath Contact
 
 Welcome!
 
